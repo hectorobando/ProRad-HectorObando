@@ -9,3 +9,7 @@ C:\Users\Hector Said Obando\Desktop\LAB RAD\Progra-RAD-Hector\Progra-RAD-Hector\
 C:\Users\Hector Said Obando\Desktop\LAB RAD\Progra-RAD-Hector\Progra-RAD-Hector\obj\Debug\Progra-RAD-Hector.exe
 C:\Users\Hector Said Obando\Desktop\LAB RAD\Progra-RAD-Hector\Progra-RAD-Hector\obj\Debug\Progra-RAD-Hector.xml
 C:\Users\Hector Said Obando\Desktop\LAB RAD\Progra-RAD-Hector\Progra-RAD-Hector\obj\Debug\Progra-RAD-Hector.pdb
+C:\Repos\hectorobando\ProRad-HectorObando\Progra-RAD-Hector\Progra-RAD-Hector\bin\Debug\Progra-RAD-Hector.exe.config
+C:\Repos\hectorobando\ProRad-HectorObando\Progra-RAD-Hector\Progra-RAD-Hector\obj\Debug\Progra-RAD-Hector.exe
+C:\Repos\hectorobando\ProRad-HectorObando\Progra-RAD-Hector\Progra-RAD-Hector\obj\Debug\Progra-RAD-Hector.xml
+C:\Repos\hectorobando\ProRad-HectorObando\Progra-RAD-Hector\Progra-RAD-Hector\obj\Debug\Progra-RAD-Hector.pdb
